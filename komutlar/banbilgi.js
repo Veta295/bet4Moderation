@@ -29,3 +29,4 @@ exports.help = {
   name: 'ban-bilgi',
   kategori: 'yetkili'
 };
+beT4 sex partnerim :DD
